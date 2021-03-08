@@ -10,7 +10,7 @@ header {
   position: sticky;
   top: 0;
 }
-.contents > p{
+.contents > a > p{
   margin:0px;
   text-align: center;
 }
