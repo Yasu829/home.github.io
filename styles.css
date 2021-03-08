@@ -1,5 +1,10 @@
+header{
+  width:100%;
+  height:300px;
+  background-color:purple;
+  position:static;
+}
 #content{
-  background-color:#000;
   width:90%;
-  height:500vh
+  height:500vh;
 }
