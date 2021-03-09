@@ -2,20 +2,22 @@ body{
   margin:0;
 }
 header {
-  background-color: #355c70;
+  background-image: url('head-background.jpg');
+  background-size:cover;
   height: 120px;
   border-style: solid;
   border-top: 3px;
   border-color: #a184ff;
   position: sticky;
   top: 0;
+  
 }
 .contents > a > p{
   margin:0px;
   text-align: center;
 }
 .contents {
-  background-image: url('shibo-washi-pattern-01.jpg');
+  background-image: url('background.jpg');
   background-repeat: repeat-y;
   background-size:cover;
   height: 3000px;
